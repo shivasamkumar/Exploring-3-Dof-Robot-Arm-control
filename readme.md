@@ -32,15 +32,15 @@ This project focuses on designing and implementing control strategies for a 3-DO
 
             Step Response of the closed loop system with optimal alpha values
 
-![3-Dof-arm](Demo/Demo_1.png)
+![3-Dof-arm](Demo_1.png)
 
             Comparision of controller responses for different scaling factors
 
-![3-Dof-arm](Demo/Demo_2.png)
+![3-Dof-arm](Demo_2.png)
                 
             Comparision of controller response for all input-output pairs
 
-![3-Dof-arm](Demo/Demo_3.png)
+![3-Dof-arm](Demo_3.png)
 
 
 
